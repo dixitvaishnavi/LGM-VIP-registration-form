@@ -1,0 +1,40 @@
+html{
+    background-color: antiquewhite;
+    text-align: left;
+}
+form{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-variant: normal;
+    
+}
+#enroll{
+    background-color: beige;
+}
+#Submit{
+    background-color: beige;
+}
+table{
+    background-color: fuchsia;
+    border-collapse: collapse;
+    margin: 50px auto;
+    border:"1";
+    box-align:"right";
+    width:"500px";
+
+}
+table,th,tr{
+    border: 2px solid black;
+    padding: 5px;
+
+}
+th{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+td{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid;
+}
